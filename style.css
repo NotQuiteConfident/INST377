@@ -1,6 +1,7 @@
 .header {
     background-color: darkslategrey;
-    color: white
+    color: white;
+    text-align: center;
   }
   
 .container1 {
@@ -22,7 +23,6 @@
 
 .job {
   background-color: grey;
-  color: white;
   font-family: 'Franklin Gothic Medium';
   border-style: double;
   border-width: 5px;
