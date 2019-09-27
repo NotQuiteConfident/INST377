@@ -7,10 +7,8 @@
 .container1 {
     width: 50%;
     margin: auto;
-    column-count: 2;
-    column-rule-style: solid;
-    column-rule-width: 5px;
-    column-span: 1;
+    display: flex;
+    flex-direction: row;
   }
 
 .profile {
